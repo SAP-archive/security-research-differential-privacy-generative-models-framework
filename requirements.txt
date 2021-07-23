@@ -1,0 +1,6 @@
+tensorflow>=2.4.0,<2.5.0
+tensorflow-privacy
+scikit-learn
+seaborn
+black
+pre-commit
