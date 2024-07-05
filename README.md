@@ -1,6 +1,8 @@
 # Differential Privacy Generative Models Framework
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/security-research-differential-privacy-generative-models-framework)](https://api.reuse.software/info/github.com/SAP-samples/security-research-differential-privacy-generative-models-framework)
+[![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
+
 
 ## Description
 The dp-generative-models repository is a framework for training and evaluating differentially private generatative models.
